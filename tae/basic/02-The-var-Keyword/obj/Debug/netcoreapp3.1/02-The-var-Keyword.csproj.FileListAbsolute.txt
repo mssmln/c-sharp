@@ -1,0 +1,13 @@
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.exe
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.deps.json
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.runtimeconfig.json
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.dll
+C:\repo\c#\tae\basic\02-The-var-Keyword\bin\Debug\netcoreapp3.1\02-The-var-Keyword.pdb
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.AssemblyInfo.cs
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.dll
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.pdb
+C:\repo\c#\tae\basic\02-The-var-Keyword\obj\Debug\netcoreapp3.1\02-The-var-Keyword.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.exe
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.deps.json
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.json
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.dll
+C:\repo\c#\tae\basic\UserInput\bin\Debug\netcoreapp3.1\UserInput.pdb
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.AssemblyInfo.cs
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.dll
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.pdb
+C:\repo\c#\tae\basic\UserInput\obj\Debug\netcoreapp3.1\UserInput.genruntimeconfig.cache
