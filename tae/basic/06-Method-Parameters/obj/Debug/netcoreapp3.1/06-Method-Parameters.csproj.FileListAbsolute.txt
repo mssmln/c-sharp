@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.exe
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.deps.json
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.runtimeconfig.json
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.dll
+C:\repo\c#\tae\basic\06-Method-Parameters\bin\Debug\netcoreapp3.1\06-Method-Parameters.pdb
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.AssemblyInfo.cs
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.dll
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.pdb
+C:\repo\c#\tae\basic\06-Method-Parameters\obj\Debug\netcoreapp3.1\06-Method-Parameters.genruntimeconfig.cache

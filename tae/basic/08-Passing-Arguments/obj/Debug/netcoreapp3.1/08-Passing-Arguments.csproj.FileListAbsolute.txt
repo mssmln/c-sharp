@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.exe
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.deps.json
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.runtimeconfig.json
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.dll
+C:\repo\c#\tae\basic\08-Passing-Arguments\bin\Debug\netcoreapp3.1\08-Passing-Arguments.pdb
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.AssemblyInfo.cs
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.dll
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.pdb
+C:\repo\c#\tae\basic\08-Passing-Arguments\obj\Debug\netcoreapp3.1\08-Passing-Arguments.genruntimeconfig.cache

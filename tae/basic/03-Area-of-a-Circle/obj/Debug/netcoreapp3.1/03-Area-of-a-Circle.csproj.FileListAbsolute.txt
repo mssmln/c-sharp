@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.exe
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.deps.json
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.runtimeconfig.json
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.dll
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\bin\Debug\netcoreapp3.1\03-Area-of-a-Circle.pdb
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.AssemblyInfo.cs
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.dll
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.pdb
+C:\repo\c#\tae\basic\03-Area-of-a-Circle\obj\Debug\netcoreapp3.1\03-Area-of-a-Circle.genruntimeconfig.cache

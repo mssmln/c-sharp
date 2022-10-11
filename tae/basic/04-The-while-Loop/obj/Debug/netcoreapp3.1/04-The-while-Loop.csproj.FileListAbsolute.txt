@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.exe
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.deps.json
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.runtimeconfig.json
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.dll
+C:\repo\c#\tae\basic\04-The-while-Loop\bin\Debug\netcoreapp3.1\04-The-while-Loop.pdb
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.AssemblyInfo.cs
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.dll
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.pdb
+C:\repo\c#\tae\basic\04-The-while-Loop\obj\Debug\netcoreapp3.1\04-The-while-Loop.genruntimeconfig.cache

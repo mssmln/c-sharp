@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.exe
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.deps.json
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.runtimeconfig.json
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.dll
+C:\repo\c#\tae\basic\05-The-for-Loop\bin\Debug\netcoreapp3.1\05-The-for-Loop.pdb
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.AssemblyInfo.cs
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.dll
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.pdb
+C:\repo\c#\tae\basic\05-The-for-Loop\obj\Debug\netcoreapp3.1\05-The-for-Loop.genruntimeconfig.cache

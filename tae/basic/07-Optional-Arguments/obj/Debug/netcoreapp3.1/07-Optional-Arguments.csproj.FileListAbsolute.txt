@@ -1,0 +1,5 @@
+C:\repo\c#\tae\basic\07-Optional-Arguments\obj\Debug\netcoreapp3.1\07-Optional-Arguments.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\07-Optional-Arguments\obj\Debug\netcoreapp3.1\07-Optional-Arguments.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\07-Optional-Arguments\obj\Debug\netcoreapp3.1\07-Optional-Arguments.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\07-Optional-Arguments\obj\Debug\netcoreapp3.1\07-Optional-Arguments.AssemblyInfo.cs
+C:\repo\c#\tae\basic\07-Optional-Arguments\obj\Debug\netcoreapp3.1\07-Optional-Arguments.csproj.CoreCompileInputs.cache

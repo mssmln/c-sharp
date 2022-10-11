@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.exe
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.deps.json
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.runtimeconfig.json
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.dll
+C:\repo\c#\tae\basic\10-Recursion\bin\Debug\netcoreapp3.1\10-Recursion.pdb
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.AssemblyInfo.cs
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.dll
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.pdb
+C:\repo\c#\tae\basic\10-Recursion\obj\Debug\netcoreapp3.1\10-Recursion.genruntimeconfig.cache

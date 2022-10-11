@@ -1,0 +1,13 @@
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.exe
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.deps.json
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.runtimeconfig.json
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.dll
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\bin\Debug\netcoreapp3.1\11-Making-a-Pyramid.pdb
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.AssemblyInfo.cs
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.dll
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.pdb
+C:\repo\c#\tae\basic\11-Making-a-Pyramid\obj\Debug\netcoreapp3.1\11-Making-a-Pyramid.genruntimeconfig.cache
