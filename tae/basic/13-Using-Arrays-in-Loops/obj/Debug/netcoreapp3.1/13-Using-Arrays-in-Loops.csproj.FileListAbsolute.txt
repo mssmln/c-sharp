@@ -1,0 +1,13 @@
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.exe
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.deps.json
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.runtimeconfig.json
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.dll
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\bin\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.pdb
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.AssemblyInfo.cs
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.dll
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.pdb
+C:\repo\c#\tae\basic\13-Using-Arrays-in-Loops\obj\Debug\netcoreapp3.1\13-Using-Arrays-in-Loops.genruntimeconfig.cache

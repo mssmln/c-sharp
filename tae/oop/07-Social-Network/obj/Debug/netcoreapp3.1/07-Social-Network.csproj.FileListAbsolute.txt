@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.exe
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.deps.json
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.runtimeconfig.json
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.dll
+C:\repo\c#\tae\oop\07-Social-Network\bin\Debug\netcoreapp3.1\07-Social-Network.pdb
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.AssemblyInfo.cs
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.dll
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.pdb
+C:\repo\c#\tae\oop\07-Social-Network\obj\Debug\netcoreapp3.1\07-Social-Network.genruntimeconfig.cache

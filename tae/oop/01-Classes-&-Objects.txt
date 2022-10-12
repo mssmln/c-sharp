@@ -1,0 +1,9 @@
+In object-oriented programming, a class is a data type that defines a set of variables and methods for a declared object.
+
+A class is like a blueprint. It defines the data and behavior for a type. 
+
+The class defines a data type for objects, but it is not an object itself. An object is a concrete entity based on a class, and is sometimes referred to as an instance of a class.
+
+Just as a built-in data type is used to declare multiple variables, a class can be used to declare multiple objects.
+
+In programming, the term type is used to refer to a class name: We're creating an object of a particular type.

@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.exe
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.deps.json
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.runtimeconfig.json
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.dll
+C:\repo\c#\tae\basic\12-Arrays\bin\Debug\netcoreapp3.1\12-Arrays.pdb
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.AssemblyInfo.cs
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.dll
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.pdb
+C:\repo\c#\tae\basic\12-Arrays\obj\Debug\netcoreapp3.1\12-Arrays.genruntimeconfig.cache

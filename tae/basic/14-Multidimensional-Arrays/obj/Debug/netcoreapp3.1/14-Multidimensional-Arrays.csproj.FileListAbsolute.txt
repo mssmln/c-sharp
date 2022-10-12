@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.exe
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.deps.json
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.runtimeconfig.json
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.dll
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\bin\Debug\netcoreapp3.1\14-Multidimensional-Arrays.pdb
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.AssemblyInfo.cs
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.dll
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.pdb
+C:\repo\c#\tae\basic\14-Multidimensional-Arrays\obj\Debug\netcoreapp3.1\14-Multidimensional-Arrays.genruntimeconfig.cache

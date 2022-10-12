@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.exe
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.deps.json
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.runtimeconfig.json
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.dll
+C:\repo\c#\tae\basic\17-Working-with-Strings\bin\Debug\netcoreapp3.1\17-Working-with-Strings.pdb
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.AssemblyInfo.cs
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.dll
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.pdb
+C:\repo\c#\tae\basic\17-Working-with-Strings\obj\Debug\netcoreapp3.1\17-Working-with-Strings.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.exe
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.deps.json
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.runtimeconfig.json
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.dll
+C:\repo\c#\tae\oop\04-Encapsulation\bin\Debug\netcoreapp3.1\04-Encapsulation.pdb
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.AssemblyInfo.cs
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.dll
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.pdb
+C:\repo\c#\tae\oop\04-Encapsulation\obj\Debug\netcoreapp3.1\04-Encapsulation.genruntimeconfig.cache

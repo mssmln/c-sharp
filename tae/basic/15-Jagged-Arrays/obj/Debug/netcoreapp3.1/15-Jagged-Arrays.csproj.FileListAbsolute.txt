@@ -1,0 +1,14 @@
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.exe
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.deps.json
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.runtimeconfig.json
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.dll
+C:\repo\c#\tae\basic\15-Jagged-Arrays\bin\Debug\netcoreapp3.1\15-Jagged-Arrays.pdb
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.csproj.AssemblyReference.cache
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.AssemblyInfo.cs
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.dll
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.pdb
+C:\repo\c#\tae\basic\15-Jagged-Arrays\obj\Debug\netcoreapp3.1\15-Jagged-Arrays.genruntimeconfig.cache

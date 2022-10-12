@@ -1,0 +1,13 @@
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.exe
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.deps.json
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.runtimeconfig.json
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.dll
+C:\repo\c#\tae\oop\05-Constructors\bin\Debug\netcoreapp3.1\05-Constructors.pdb
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.AssemblyInfo.cs
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.dll
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.pdb
+C:\repo\c#\tae\oop\05-Constructors\obj\Debug\netcoreapp3.1\05-Constructors.genruntimeconfig.cache

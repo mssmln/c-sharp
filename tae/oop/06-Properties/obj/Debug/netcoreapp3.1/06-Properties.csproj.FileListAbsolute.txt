@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.exe
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.deps.json
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.runtimeconfig.json
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.dll
+C:\repo\c#\tae\oop\06-Properties\bin\Debug\netcoreapp3.1\06-Properties.pdb
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.AssemblyInfo.cs
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.dll
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.pdb
+C:\repo\c#\tae\oop\06-Properties\obj\Debug\netcoreapp3.1\06-Properties.genruntimeconfig.cache

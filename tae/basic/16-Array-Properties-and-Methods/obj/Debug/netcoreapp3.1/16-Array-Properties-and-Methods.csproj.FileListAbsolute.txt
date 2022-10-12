@@ -1,0 +1,13 @@
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.exe
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.deps.json
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.runtimeconfig.json
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.runtimeconfig.dev.json
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.dll
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\bin\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.pdb
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.AssemblyInfoInputs.cache
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.AssemblyInfo.cs
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.dll
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.pdb
+C:\repo\c#\tae\basic\16-Array-Properties-and-Methods\obj\Debug\netcoreapp3.1\16-Array-Properties-and-Methods.genruntimeconfig.cache
