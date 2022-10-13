@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.exe
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.deps.json
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.runtimeconfig.json
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.dll
+C:\repo\c#\tae\oop\11-this-and-readonly\bin\Debug\netcoreapp3.1\11-this-and-readonly.pdb
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.AssemblyInfo.cs
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.dll
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.pdb
+C:\repo\c#\tae\oop\11-this-and-readonly\obj\Debug\netcoreapp3.1\11-this-and-readonly.genruntimeconfig.cache

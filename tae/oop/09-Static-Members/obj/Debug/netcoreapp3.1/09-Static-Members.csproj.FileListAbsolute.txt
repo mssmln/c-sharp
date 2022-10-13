@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.exe
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.deps.json
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.runtimeconfig.json
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.dll
+C:\repo\c#\tae\oop\09-Static-Members\bin\Debug\netcoreapp3.1\09-Static-Members.pdb
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.AssemblyInfo.cs
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.dll
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.pdb
+C:\repo\c#\tae\oop\09-Static-Members\obj\Debug\netcoreapp3.1\09-Static-Members.genruntimeconfig.cache

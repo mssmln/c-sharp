@@ -1,0 +1,13 @@
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.exe
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.deps.json
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.runtimeconfig.json
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.dll
+C:\repo\c#\tae\oop\08-Destructors\bin\Debug\netcoreapp3.1\08-Destructors.pdb
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.AssemblyInfo.cs
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.dll
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.pdb
+C:\repo\c#\tae\oop\08-Destructors\obj\Debug\netcoreapp3.1\08-Destructors.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.exe
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.deps.json
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.runtimeconfig.json
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.dll
+C:\repo\c#\tae\oop\10-Static-Classes\bin\Debug\netcoreapp3.1\10-Static-Classes.pdb
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.AssemblyInfo.cs
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.dll
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.pdb
+C:\repo\c#\tae\oop\10-Static-Classes\obj\Debug\netcoreapp3.1\10-Static-Classes.genruntimeconfig.cache
