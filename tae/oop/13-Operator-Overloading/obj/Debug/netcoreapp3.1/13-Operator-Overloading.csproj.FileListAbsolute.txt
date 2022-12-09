@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.exe
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.deps.json
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.runtimeconfig.json
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.dll
+C:\repo\c#\tae\oop\13-Operator-Overloading\bin\Debug\netcoreapp3.1\13-Operator-Overloading.pdb
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.AssemblyInfo.cs
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.dll
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.pdb
+C:\repo\c#\tae\oop\13-Operator-Overloading\obj\Debug\netcoreapp3.1\13-Operator-Overloading.genruntimeconfig.cache

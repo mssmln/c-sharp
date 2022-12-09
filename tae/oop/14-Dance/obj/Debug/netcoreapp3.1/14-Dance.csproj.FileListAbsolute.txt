@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.exe
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.deps.json
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.runtimeconfig.json
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.dll
+C:\repo\c#\tae\oop\14-Dance\bin\Debug\netcoreapp3.1\14-Dance.pdb
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.AssemblyInfo.cs
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.dll
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.pdb
+C:\repo\c#\tae\oop\14-Dance\obj\Debug\netcoreapp3.1\14-Dance.genruntimeconfig.cache

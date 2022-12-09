@@ -1,0 +1,14 @@
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.exe
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.deps.json
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.runtimeconfig.json
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.runtimeconfig.dev.json
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.dll
+C:\repo\c#\tae\oop\12-Indexers\bin\Debug\netcoreapp3.1\12-Indexers.pdb
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.csproj.AssemblyReference.cache
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.AssemblyInfoInputs.cache
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.AssemblyInfo.cs
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.csproj.CoreCompileInputs.cache
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.dll
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.pdb
+C:\repo\c#\tae\oop\12-Indexers\obj\Debug\netcoreapp3.1\12-Indexers.genruntimeconfig.cache
